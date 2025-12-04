@@ -1,6 +1,5 @@
 <img width="615" height="362" alt="image" src="https://github.com/user-attachments/assets/fcc24cf4-24bc-4534-83d0-4e4f455c6d74" />
 <img width="615" height="362" alt="image" src="https://github.com/user-attachments/assets/9455e871-4ee6-471a-ae79-ed71991ed3b9" />
-<img width="615" height="362" alt="image" src="https://github.com/user-attachments/assets/aed94b60-677c-444c-989f-f55abb66395d" />
 ✅ Project Title
 
 Stock Management System in C
